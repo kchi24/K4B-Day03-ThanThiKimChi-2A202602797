@@ -86,7 +86,7 @@ Dán 1 đoạn trích xuất log tiêu biểu từ file `docs/trace_waterfall.js
 - [x] Đã điền API Key thật trong `.env` và xác nhận Agent chạy mượt mà (GeminiProvider với fallback về Mock do API Key bị giới hạn quyền truy cập).
 - **Tổng số Test Cases đã chạy thành công:** 5 / 5 test cases.
 - **Số lượt gọi Tool qua MCP Server chính xác:** 4 lượt (TC02: `academic_query`, TC03: `schedule_appointment`, TC04: `academic_query`, TC05: `academic_query`).
-- **Kết quả đẩy Repo nộp bài:** [ ] Đã Commit và Push mã nguồn thành công lên GitHub cá nhân.
+- **Kết quả đẩy Repo nộp bài:** [x] Đã Commit và Push mã nguồn thành công lên GitHub cá nhân.
 
 ---
 
